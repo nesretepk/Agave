@@ -13,7 +13,7 @@
 
 
 <body>
-
+<blink>OMG!  Github is fly!</blink>
     <div id="header">
     	<div id='header-center'>
 			<h1><a href='<?php print $agave->agave_base_url ?>'><?php print $siteName ?></a></h1>
